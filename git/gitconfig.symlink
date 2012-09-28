@@ -5,11 +5,13 @@
 [hub]
         protocol = https
 [user]
-        name = Zach Holman
-        email = zach@zachholman.com
+        name = Brandon Keene
+        email = bkeene@gmail.com
 [credential]
         helper = osxkeychain
 [alias]
+        st = status
+        br = branch
         co = checkout
         promote = !$ZSH/bin/git-promote
         wtf     = !$ZSH/bin/git-wtf
